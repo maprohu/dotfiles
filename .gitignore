@@ -6,5 +6,13 @@
 !/.config
 
 /.config/*
+
 !/.config/i3/
+
+!/.config/Code/
+/.config/Code/*
+!/.config/Code/User/
+/.config/Code/User/*
+!/.config/Code/User/*.json
+
 

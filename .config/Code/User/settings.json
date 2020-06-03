@@ -1,0 +1,13 @@
+{
+    "files.autoSave": "afterDelay",
+	"vim.easymotion": true,
+	"vim.leader": ",",
+    "vim.easymotionMarkerHeight": 19,
+	"vim.easymotionMarkerFontFamily": "Noto Mono",
+	"vim.easymotionMarkerFontWeight": "bold",
+    "vim.handleKeys": {
+		"<C-j>": false
+    },
+    "workbench.activityBar.visible": false,
+    "files.autoSaveDelay": 3000
+}
