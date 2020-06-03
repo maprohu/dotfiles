@@ -1,0 +1,10 @@
+/*
+!/.gitignore
+
+!/.bashrc
+
+!/.config
+
+/.config/*
+!/.config/i3/
+
